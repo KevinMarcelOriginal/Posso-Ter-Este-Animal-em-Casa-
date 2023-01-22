@@ -1,0 +1,38 @@
+*{
+  margin:0;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  margin:0px;
+  text-align:center;
+}
+h1{
+  color:#ffffff;
+  background-color:#1c047b;
+  padding:50px;
+  border-style: solid;
+  border-width: 7px;
+  border-color: brown;
+  margin: 30px;
+}
+.fotos{
+justify-content: space-around;
+  display:flex; 
+}
+img{
+  max-width: 30%;
+  max-height: 30%;
+/*   width: auto;
+  height: auto; */
+}
+h3{
+  padding:30px;
+}
+.questao{
+  align-items:center;
+  padding:30px;
+}
+input{
+  padding:30px;
+}
